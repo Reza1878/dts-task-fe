@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@tanstack/react-table": "^8.5.11",
     "axios": "^0.27.2",
     "clsx": "^1.2.1",
     "next": "12.2.4",
