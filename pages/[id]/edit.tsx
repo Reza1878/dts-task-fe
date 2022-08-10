@@ -1,7 +1,7 @@
-import BaseLayout from "component/BaseLayout";
-import Container from "component/Container";
-import PageTitle from "component/PageTitle";
-import TaskForm from "component/TaskForm";
+import BaseLayout from "components/BaseLayout";
+import Container from "components/Container";
+import PageTitle from "components/PageTitle";
+import TaskForm from "components/TaskForm";
 import { useRouter } from "next/router";
 import React from "react";
 import { toast } from "react-toastify";

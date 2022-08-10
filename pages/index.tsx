@@ -1,7 +1,7 @@
-import BaseLayout from "component/BaseLayout";
-import Button from "component/Button";
-import Container from "component/Container";
-import PageTitle from "component/PageTitle";
+import BaseLayout from "components/BaseLayout";
+import Button from "components/Button";
+import Container from "components/Container";
+import PageTitle from "components/PageTitle";
 import type { NextPage } from "next";
 import { useRouter } from "next/router";
 import { useEffect, useState } from "react";
